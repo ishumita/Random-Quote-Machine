@@ -1,0 +1,38 @@
+.App {
+ 
+}
+
+#text {
+  font-size: 30px;
+  width: 50%;
+  font-weight: bold;
+  color: white;
+  
+}
+
+#author {
+   font-size: 10px;
+   font-weight: bold;
+   color: white;
+}
+
+.qm {
+  position: fixed;
+  top: 50%;
+  width: 30%;
+  left: 50%;
+  margin-left: -200px;
+  margin-top: -100px; 
+  top: 50%;
+  
+}
+
+.btn {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.icon-btn {
+ height: auto;
+}
